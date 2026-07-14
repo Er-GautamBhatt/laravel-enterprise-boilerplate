@@ -8,7 +8,8 @@
 ## Architecture
 
 ## Features
-
+1. feature one
+2. feature two  
 ## Technology Stack
 
 ## Database Design
